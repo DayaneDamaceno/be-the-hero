@@ -14,4 +14,4 @@ Sendo pelo nosso site, ou pelo nosso apicativo.
 - [Expo](https://expo.io/)
 
 
-**Feito por com ❤ DayaneDamaceno/[Rocketseat](https://rocketseat.com.br/)**
+**Feito com ❤ por DayaneDamaceno/[Rocketseat](https://rocketseat.com.br/)**
