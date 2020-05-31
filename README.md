@@ -4,7 +4,7 @@ Projeto resultado da Semana OmniStack #11
 
 O Be the hero visa ajudar no procedimento de conectar qualquer pessoa que deseja ajudar financeiramente qualquer ONG com campanhas abertas.
 
-Sendo pelo nosso site, ou pelo nosso apicativo.
+Sendo pelo nosso site, ou pelo nosso aplicativo.
 
 ### 🕹Tecnologias utilizadas:
 
